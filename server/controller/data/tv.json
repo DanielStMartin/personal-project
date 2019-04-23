@@ -1,0 +1,226 @@
+{
+    "results": [
+      {
+        "id": "",
+        "title": "Grimm ",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMTkyODg2MzQwMV5BMl5BanBnXkFtZTgwNTA2MjE1MDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "A homicide detective discovers he is a descendant of hunters who fight supernatural forces.",
+        "Category": "Drama | Fantasy | Horror | Mystery",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "28 October 2011",
+        "episodes":"123"
+        
+      },
+      {
+        "id": "",
+        "title": "Game of Thrones",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMjA5NzA5NjMwNl5BMl5BanBnXkFtZTgwNjg2OTk2NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": " Nine noble families fight for control over the mythical lands of Westeros, while an ancient enemy returns after being dormant for thousands of years.",
+        "Category": "Action | Adventure | Drama | Fantasy | Romance",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "17 April 2011",
+        "episodes":"80"
+      },
+      {
+        "id": "",
+        "title": "Arrow",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMTU5MjU5NjUyOV5BMl5BanBnXkFtZTgwMDY1ODIyNjM@._V1_UY268_CR16,0,182,268_AL_.jpg",
+        "Synopsis": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow. ",
+        "Category": "Action | Adventure | Crime | Drama | Mystery | Sci-Fi",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "10 October 2012",
+        "episodes":"170"
+      },
+      {
+        "id": "",
+        "title": "The Walking Dead",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BNDM2OTA1NzIzMV5BMl5BanBnXkFtZTgwOTkxMTk5NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins, and must lead a group of survivors to stay alive. ",
+        "Category": "Drama | Horror | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "31 October 2010",
+        "episodes":"147"
+      },
+      {
+        "id": "",
+        "title": "Dark Matter",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BYjI5OGMxNzYtZmZiYS00NDI1LWI4NWMtOTZmNjY1MjMzZjExXkEyXkFqcGdeQXVyNTgxMjE3OTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": " In the dystopian 27th century, six people wake up on a deserted spaceship with no memory of who they are or what they're doing there. They reluctantly team up and set off to find answers with the help of a female android.",
+        "Category": "Adventure | Drama | Mystery | Sci-Fi | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "12 June 2015",
+        "episodes":"39"
+      },
+      {
+        "id": "",
+        "title": "Vikings",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BNDYyNzk1NzYwOF5BMl5BanBnXkFtZTgwMTQ0Nzc4MzI@._V1_UY268_CR8,0,182,268_AL_.jpg",
+        "Synopsis": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean. ",
+        "Category": "Action | Adventure | Drama | History | Romance | War",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "3 March 2013",
+        "episodes":"89"
+      },
+      {
+        "id": "",
+        "title": "Peaky Blinders",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "A gangster family epic set in 1919 Birmingham, England; centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby. ",
+        "Category": "Crime | Drama",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "30 September 2014",
+        "episodes":"30"
+      },
+      {
+        "id": "",
+        "title": "Black Sails",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMjA5NjAyOTk5MV5BMl5BanBnXkFtZTgwNTI4OTMyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": " Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island.",
+        "Category": "Adventure | Drama",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "25 January 2014",
+        "episodes":"38"
+      },
+      {
+        "id": "",
+        "title": "Spartacus",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BOTA2NDU2MzM5Nl5BMl5BanBnXkFtZTcwMTk3Njg3OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "The life of Spartacus, the gladiator who lead a rebellion against the Romans. From his time as an ally of the Romans, to his betrayal and becoming a gladiator, to the rebellion he leads and its ultimate outcome.",
+        "Category": "Action | Adventure | Biography | Drama | History | Romance",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "22 January 2010",
+        "episodes":"34"
+      },
+      {
+        "id": "",
+        "title": "Killjoys",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMzk3NzEyMzYwNV5BMl5BanBnXkFtZTgwMDIzNTAyOTE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+        "Synopsis": "In the Quad, a planetary system on the brink of a bloody interplanetary class war, a fun loving trio of bounty hunters attempt to remain impartial as they chase deadly warrants.",
+        "Category": "Action | Adventure | Sci-Fi | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "19 June 2015",
+        "episodes":"50"
+      },
+      {
+        "id": "",
+        "title": "The Expanse",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BNTdhZGJlYjEtYWNjMC00ZTYzLWEyODAtYWI4NzBjODBlNDM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "A police detective in the asteroid belt, the first officer of an interplanetary ice freighter and an earth-bound United Nations executive slowly discover a vast conspiracy that threatens the Earth's rebellious colony on the asteroid belt.",
+        "Category": "Drama | Mystery | Sci-Fi | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "23 November 2015",
+        "episodes":"46"
+      },
+      {
+        "id": "",
+        "title": "Westworld",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BNThjM2Y3MDUtYTIyNC00ZDliLWJlMmItNWY1N2E5NjhmMGM4XkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+        "Category": "Drama | Mystery | Sci-Fi | Western",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "2 October 2016",
+        "episodes":"30"
+      },
+      {
+        "id": "",
+        "title": "Breaking Bad",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR5,0,182,268_AL_.jpg",
+        "Synopsis": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+        "Category": "Crime | Drama | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "20 January 2008",
+        "episodes":"62"
+      },
+      {
+        "id": "",
+        "title": "Black Mirror",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BNTEwYzNiMGUtNzRlYS00MTMzLTliNzgtOGUxZGZiNThlNWYwXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "An anthology series exploring a twisted, high-tech world where humanity's greatest innovations and darkest instincts collide.",
+        "Category": "Drama | Sci-Fi | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "4 December 2011",
+        "episodes":"25"
+      },
+      {
+        "id": "",
+        "title": "Rick and Morty",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UY268_CR2,0,182,268_AL_.jpg",
+        "Synopsis": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+        "Category": "Animation | Adventure | Comedy | Sci-Fi",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "2 December 2013",
+        "episodes":"32"
+      },
+      {
+        "id": "",
+        "title": "Da Vinci's Demons",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMTc5NjY5MzM2M15BMl5BanBnXkFtZTgwMjA5NzMxMTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "Follows Leonardo Da Vinci during his early days in Florence, as a young artist, inventor and dreamer, trying to change the future.",
+        "Category": "Adventure | Biography | Drama | Fantasy | History | Mystery | Romance",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "3 March 2013",
+        "episodes":"28"
+      },
+      {
+        "id": "",
+        "title": "Sanctuary",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMTQ4MTI1NTQ3NV5BMl5BanBnXkFtZTcwNDI4Mjc5MQ@@._V1_UY268_CR10,0,182,268_AL_.jpg",
+        "Synopsis": "Stem cells, gene therapy, transplants, and cloning have changed the definition of humanity in the modern world, but the darker side contains monsters that only few are brave enough to face, because the future lies in their hands.",
+        "Category": "Drama | Fantasy | Mystery | Sci-Fi",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "3 October 2008",
+        "episodes":"59"
+      },
+      {
+        "id": "",
+        "title": "Stargate: Atlantis",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMjI0MTI4MTY3N15BMl5BanBnXkFtZTcwMjg1NjQ4NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.",
+        "Category": "Action | Adventure | Drama | Sci-Fi",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "16 July 2004",
+        "episodes":"99"
+      },
+      {
+        "id": "",
+        "title": "Sherlock",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+        "Category": "Crime | Drama | Mystery | Thriller",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "24 October 2010",
+        "episodes":"15"
+      },
+      {
+        "id": "",
+        "title": "Friends",
+        "cover_art": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY268_CR0,0,182,268_AL_.jpg",
+        "Synopsis": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+        "Category": "Comedy | Romance",
+        "Liked": null,
+        "Disliked": null,
+        "release_date": "22 September 1994",
+        "episodes":"236"
+      }
+    ]
+  }
+  
